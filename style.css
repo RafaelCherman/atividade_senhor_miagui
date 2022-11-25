@@ -12,7 +12,7 @@ h1
 
 img
 {
-    width: 60%;
+    width: 55%;
 }
 
 p
@@ -20,13 +20,6 @@ p
     
     font: normal 15px Arial;
     text-align: center;
-}
-
-span
-{
-    margin: 0px;
-    font: normal 15px Arial;
-    text-align: justify;
 }
 
 article
@@ -37,8 +30,7 @@ article
     outline-style: solid;
     outline-width: 2px;
     outline-color: rgb(18, 18, 109);
-    border-radius: 10px;
-    
+    border-radius: 10px;    
 }
 
 article h1
